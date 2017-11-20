@@ -1,1 +1,0 @@
-# Entity-Architecture-Generator
